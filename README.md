@@ -119,4 +119,4 @@ Follow these steps to set up and run the project:
 
 # License
 
-This project is licensed under the MIT..
+This project is licensed under th MIT..
