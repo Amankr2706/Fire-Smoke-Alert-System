@@ -117,4 +117,4 @@ Follow these steps to set up and run the project:
 - **YOLOv8.py** can be used to test the models on images and videos.
 
 # Liscence
--This project is liscenced under MIT.
+This project is liscenced under MIT.
