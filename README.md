@@ -116,3 +116,5 @@ Follow these steps to set up and run the project:
 # Extra
 - **YOLOv8.py** can be used to test the models on images and videos.
 
+#Liscense
+
